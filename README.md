@@ -1,6 +1,6 @@
 # Luca Navas
 
-**Frontend Developer Júnior** | React · JavaScript · Node.js · Git
+**Frontend Developer Júnior** | React · JavaScript · TypeScript · Node.js · Git
 
 Engenheiro de Computação formado em dezembro de 2025 pela Universidade São Francisco (USF).
 
@@ -13,7 +13,7 @@ Hoje busco minha primeira oportunidade como Desenvolvedor Front-end Júnior ou D
 ## Stack
 
 **Desenvolvimento**
-React · Angular · JavaScript · Node.js · C/C++ (embarcado)
+React · Angular · JavaScript · Node.js · TypeScript · C/C++ (embarcado)
 
 **Dados**
 Python · pandas · SQL · MySQL · Excel
@@ -22,7 +22,7 @@ Python · pandas · SQL · MySQL · Excel
 Git · GitHub · Kanban · ThingSpeak
 
 **Idiomas**
-Português nativo · Inglês intermediário (leitura de documentação técnica e comunicação com equipe internacional)
+Português nativo · Inglês Avançada (leitura de documentação técnica e comunicação com equipe internacional)
 
 ## Projetos
 
@@ -50,4 +50,4 @@ LinkedIn: linkedin.com/in/luca-navas
 Email: Navas440@hotmail.com
 Localização: São Paulo, SP (aberto a remoto e híbrido)
 
-Aberto a conversas sobre vagas de Frontend Júnior, Dev Júnior Full Stack e Estágio em Desenvolvimento.
+Aberto a conversas sobre vagas de Frontend Júnior, Dev Júnior Full Stack e trainee em Desenvolvimento.
